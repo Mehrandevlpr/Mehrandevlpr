@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Laravel|PHP**
+ 🔭 I’m currently working on **PHP|Laravel|Javascript|React|NodeJs**
  
  🌱 I’m currently learning **Docker, Supabase, AWS**
 
